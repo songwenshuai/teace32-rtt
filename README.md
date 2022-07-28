@@ -1,2 +1,2 @@
 # telnet-rtt
-SEGGER RTT Real Time Transfer for LAUTERBACH TEACE32
+SEGGER RTT Real Time Transfer for LAUTERBACH TRACE32
